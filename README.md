@@ -11,9 +11,9 @@
 ### Nói về bản thân
 <ul>
   <li>- 🔭 Hiện tại tôi đang thực hiện dự án 'App Quản Lí Giải Đấu Bóng Đá'.</li>
-  <li>- 🌱 Tôi hiện đang học NextBeens & Java. </li>
-  <li>- 👯 Tôi đang tìm cộng tác cho dự án của mình </li>
-  <li>- ⚡ Fun fact: Tôi khá thích nuôi bò sát và côn trùng</li>
+  <li>- 🌱 Tôi hiện đang học Java. </li>
+  <li>- 👯 Tôi đang người cho dự án của mình </li>
+
 </ul>
 
 
